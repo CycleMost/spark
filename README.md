@@ -1,5 +1,5 @@
 ## UPDATE:
-This is a fork of Spark 2.9.4 that has been updated to use the new Jakarta libarries instead of the legacy J2EE classes,
+This is a fork of Spark 2.9.4 that has been updated to use the new `jakarta` libaries instead of the legacy `javax` classes,
 and now targets Java 11 instead of Java 8.
 
 The original README.md follows:
