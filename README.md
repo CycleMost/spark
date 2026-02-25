@@ -1,8 +1,9 @@
-This is a fork of Spark 2.9.4 that has been updated to use the new Jakarta libarries instead of the legacy J2EE classes.
+## UPDATE:
+This is a fork of Spark 2.9.4 that has been updated to use the new Jakarta libarries instead of the legacy J2EE classes,
+and now targets Java 11 instead of Java 8.
 
 The original README.md follows:
 
-[![](https://img.shields.io/travis/perwendel/spark.svg)](https://travis-ci.org/perwendel/spark)
 [![](https://img.shields.io/github/license/perwendel/spark.svg)](./LICENSE)
 [![](https://img.shields.io/maven-central/v/com.sparkjava/spark-core.svg)](http://mvnrepository.com/artifact/com.sparkjava/spark-core)
 
